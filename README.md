@@ -25,10 +25,6 @@
 - :technologist: I love using Software as a solution for every `Problem`
 - :thinking: 
 <br>
-
-
-<a target="_blank"><img align="left" height="200" width="200" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Git profile Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bc-expert&layout=compact&theme=algolia" alt="bc-expert" width="600px"/></a> </p>
 
