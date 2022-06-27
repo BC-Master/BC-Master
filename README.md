@@ -21,9 +21,9 @@
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><h2 align="left" font-weight="bold">About me</h2>  
 <br><br>
 
-- :computer: Passionate and skilled Blockchain Developer offering 6 years of relevant experience and a proven track record of success in achieving extraordinary results. With strong attention to detail and accuracy and the important ability to function well in a team setting, David is looking for a Blockchain Developer job within a forward-moving company.
-- :technologist: I love using Software as a solution for every `Problem`
-- :thinking: 
+- :computer: Passionate and skilled Blockchain Developer offering 6 years of relevant experience and a proven track record of success in achieving extraordinary results. With strong attention to detail and accuracy and the important ability to function well in a team setting, I am looking for a Blockchain Full Stack Engineer job within a forward-moving company.
+- Telegram: https://t.me/TGbcmaster
+- Skype   : live:.cid.7c3bbf3966473ea5
 <br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bc-expert&layout=compact&theme=algolia" alt="bc-expert" width="600px"/></a> </p>
