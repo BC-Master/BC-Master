@@ -11,7 +11,7 @@
 </h1>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bc-master.bc-master" />
-<img align="right" src="https://img.shields.io/github/followers/bc-master?label=Follow&style=social" />
+
 <h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=bc-master&count_private=true&show_icons=true&theme=chartreuse-dark" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bc-master&layout=compact&theme=chartreuse-dark&langs_count=8" />
