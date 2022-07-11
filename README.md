@@ -18,7 +18,8 @@
 <img height="150" />
 <br><br>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450px" height="300px" />
-<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 80px height=80px><h2 align="left" font-weight="bold">About me</h2>  
+<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 80px height=80px>
+<h2 align="left" font-weight="bold">About me</h2>  
 <br><br>
 
 - :computer: Passionate and skilled Blockchain Developer offering 6 years of relevant experience and a proven track record of success in achieving extraordinary results. With strong attention to detail and accuracy and the important ability to function well in a team setting, I am looking for a Blockchain Full Stack Engineer job within a forward-moving company.
