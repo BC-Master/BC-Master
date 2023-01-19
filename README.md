@@ -13,8 +13,8 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bc-master.bc-master" />
 <img align="right" src="https://img.shields.io/github/followers/bc-expert?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="140px" src="https://github-readme-stats.vercel.app/api?username=BC-Master&count_private=true&show_icons=true&theme=chartreuse-dark" />
-<img align="right" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BC-Master&layout=compact&theme=chartreuse-dark&langs_count=8" />
+<img align="left" height="140px" src="https://github-readme-stats.vercel.app/api?username=bc-master&count_private=true&show_icons=true&theme=chartreuse-dark" />
+<img align="right" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bc-master&layout=compact&theme=chartreuse-dark&langs_count=8" />
 
 <br><br><br><br><br><br>
 
