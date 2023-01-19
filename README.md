@@ -11,15 +11,14 @@
 </h1>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bc-master.bc-master" />
-
+<img align="right" src="https://img.shields.io/github/followers/bc-expert?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=bc-master&count_private=true&show_icons=true&theme=chartreuse-dark" />
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bc-master&layout=compact&theme=chartreuse-dark&langs_count=8" />
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=BC-Master&count_private=true&show_icons=true&theme=chartreuse-dark" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BC-Master&layout=compact&theme=chartreuse-dark&langs_count=8" />
 <img height="150" />
 <br><br>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450px" height="300px" />
-<br><br>
-<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
+
+
 <h2 align="left" font-weight="bold">About me</h2>  
 <br><br>
 
@@ -28,13 +27,7 @@
 - Skype   : live:.cid.7c3bbf3966473ea5
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bc-expert&layout=compact&theme=algolia" alt="bc-expert" width="600px"/></a> </p>
 
-
-<p align="center">
-  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-<br>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
   <tr>
