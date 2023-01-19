@@ -13,13 +13,13 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bc-master.bc-master" />
 <img align="right" src="https://img.shields.io/github/followers/bc-expert?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="120px" src="https://github-readme-stats.vercel.app/api?username=BC-Master&count_private=true&show_icons=true&theme=chartreuse-dark" />
-<img align="right" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BC-Master&layout=compact&theme=chartreuse-dark&langs_count=8" />
-<img height="150" />
-<br><br>
+<img align="left" height="140px" src="https://github-readme-stats.vercel.app/api?username=BC-Master&count_private=true&show_icons=true&theme=chartreuse-dark" />
+<img align="right" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BC-Master&layout=compact&theme=chartreuse-dark&langs_count=8" />
+
+<br><br><br><br><br><br>
 
 
-<h2 align="left" font-weight="bold">About me</h2>  
+<h2 font-weight="bold">About me</h2>  
 <br><br>
 
 - :computer: Passionate and skilled Blockchain Developer offering 6 years of relevant experience and a proven track record of success in achieving extraordinary results. With strong attention to detail and accuracy and the important ability to function well in a team setting, I am looking for a Blockchain Full Stack Engineer job within a forward-moving company.
