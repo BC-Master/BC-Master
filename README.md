@@ -18,16 +18,6 @@
 
 <br><br><br><br><br><br>
 
-
-<h2 font-weight="bold">About me</h2>  
-<br><br>
-
-- :computer: Passionate and skilled Blockchain Developer offering 6 years of relevant experience and a proven track record of success in achieving extraordinary results. With strong attention to detail and accuracy and the important ability to function well in a team setting, I am looking for a Blockchain Full Stack Engineer job within a forward-moving company.
-- Telegram: https://t.me/TGbcmaster
-- Skype   : live:.cid.7c3bbf3966473ea5
-<br>
-
-
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
   <tr>
